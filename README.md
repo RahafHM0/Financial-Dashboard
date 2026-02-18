@@ -10,7 +10,7 @@ I implemented a **Star Schema** to ensure data integrity and optimal report perf
 * **Relationship:** A **One-to-Many (1:*)** relationship was established between `Dim_Data` and `Fact_Sales`.
 
 ### Data Model Preview:
-![Data Model Architecture](Data_Model.png) 
+![Data Model Architecture](Data_Model_Architecture.png) 
 
 ## 🛠️ Tools & Methodology
 * **Power BI Service:** The entire project was built and managed in the cloud.
@@ -30,7 +30,7 @@ I implemented a **Star Schema** to ensure data integrity and optimal report perf
 | Asset | Description | Link |
 | :--- | :--- | :--- |
 | **Final Dashboard** | Full preview of KPIs and charts | [View Image](Executive_Dashboard.png) |
-| **Data Model** | Semantic model and relationships | [View Image](Data_Model.png) |
+| **Data Model** | Semantic model and relationships | [View Image](Data_Model_Architecture.png) |
 | **Interactive Report** | Live link on Power BI Service | [Click Here to Open](<iframe title="Project" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiODk3YjIyOGYtMDkxYi00NWMwLTkwODEtMGM0OTUzNDIwMWEyIiwidCI6IjNlMDNiMmEzLWNkM2EtNDZmNy1iMDUxLTc2YjQzMzQ0Zjk5MyIsImMiOjl9" frameborder="0" allowFullScreen="true"></iframe> ) |
 
 ---
