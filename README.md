@@ -3,7 +3,7 @@
 ## 📋 Project Overview
 This interactive dashboard was developed using **Power BI Service** to provide strategic insights into sales performance for the year 2024. The project transforms raw transactional data into actionable financial intelligence, focusing on revenue trends, profitability, and customer behavior.
 
-## 🏗️ Data Modeling & Architecture
+## 🏗️ Data Modeling
 I implemented a **Star Schema** to ensure data integrity and optimal report performance:
 * **Dim_Data (Dimension):** A custom-built date table created to enable advanced **Time Intelligence** analysis.
 * **Fact_Sales (Fact):** The central table containing all sales transactions and metrics.
