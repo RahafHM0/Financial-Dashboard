@@ -29,9 +29,8 @@ I implemented a **Star Schema** to ensure data integrity and optimal report perf
 
 | Asset | Description | Link |
 | :--- | :--- | :--- |
-| **Final Dashboard** | Full preview of KPIs and charts | [View Image](Executive_Dashboard.png) |
+| **Final Dashboard** | Full preview of KPIs and charts | [View Image](<img width="2880" height="1800" alt="Executive_Dashboard" src="https://github.com/user-attachments/assets/77c9d614-6d45-414f-8701-9e5dc8e1d164" />
+) |
 | **Data Model** | Semantic model and relationships | [View Image](Data_Model.png) |
-src="https://app.powerbi.com/view?r=eyJrIjoiODk3YjIyOGYtMDkxYi00NWMwLTkwODEtMGM0OTUzNDIwMWEyIiwidCI6IjNlMDNiMmEzLWNkM2EtNDZmNy1iMDUxLTc2YjQzMzQ0Zjk5MyIsImMiOjl9" frameborder="0" allowFullScreen="true"></iframe> ) |
 
----
 
