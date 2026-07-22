@@ -30,6 +30,22 @@ I implemented a **Star Schema** to ensure data integrity and optimal report perf
 | **Final Dashboard** | Full preview of KPIs and charts | <img width="2880" height="1800" alt="Executive_Dashboard" src="https://github.com/user-attachments/assets/77c9d614-6d45-414f-8701-9e5dc8e1d164" />
 |
 
+## 💼 Skills Demonstrated
 
+- Power BI
+- Power BI Service
+- DAX
+- Data Modeling
+- Star Schema Design
+- Data Visualization
+- Business Intelligence (BI)
+- KPI Development
+- Dashboard Design
+- Time Intelligence
+- Data Analysis
+- Trend Analysis
+- Profitability Analysis
+- Business Insights
+- Report Development
 
 
