@@ -31,16 +31,7 @@ I implemented a **Star Schema** to ensure data integrity and optimal report perf
 | :--- | :--- | :--- |
 | **Final Dashboard** | Full preview of KPIs and charts | [View Image](Executive_Dashboard.png) |
 | **Data Model** | Semantic model and relationships | [View Image](Data_Model.png) |
-| **Interactive Report** | Live link on Power BI Service | [Click Here to Open](<iframe title="Project" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiODk3YjIyOGYtMDkxYi00NWMwLTkwODEtMGM0OTUzNDIwMWEyIiwidCI6IjNlMDNiMmEzLWNkM2EtNDZmNy1iMDUxLTc2YjQzMzQ0Zjk5MyIsImMiOjl9" frameborder="0" allowFullScreen="true"></iframe> ) |
+src="https://app.powerbi.com/view?r=eyJrIjoiODk3YjIyOGYtMDkxYi00NWMwLTkwODEtMGM0OTUzNDIwMWEyIiwidCI6IjNlMDNiMmEzLWNkM2EtNDZmNy1iMDUxLTc2YjQzMzQ0Zjk5MyIsImMiOjl9" frameborder="0" allowFullScreen="true"></iframe> ) |
 
 ---
 
-## 💡 Important Technical Note
-**Note on Live Link Accessibility:**
-Since this project was developed and hosted entirely on **Power BI Service (Cloud-based Free Tier)**, users may encounter intermittent rendering issues when accessing the live link. 
-
-Common issues due to cloud-sharing limitations include:
-* **Missing Text Elements:** Dynamic text boxes or descriptive insights might not display correctly.
-* **Visual Loading:** Some KPIs or card visuals might experience delays.
-
-**Recommendation:** For the most accurate and complete view of the analytical findings and visual design, please refer to the **high-resolution images (Executive_Dashboard.png)** provided in this repository.
