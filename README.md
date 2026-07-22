@@ -29,8 +29,8 @@ I implemented a **Star Schema** to ensure data integrity and optimal report perf
 | Asset | Description | Image |
 | :--- | :--- | :--- |
 | **Final Dashboard** | Full preview of KPIs and charts | <img width="2880" height="1800" alt="Executive_Dashboard" src="https://github.com/user-attachments/assets/77c9d614-6d45-414f-8701-9e5dc8e1d164" />
-) |
+|
 | **Data Model** | Semantic model and relationships | <img width="1440" height="900" alt="Data_Model" src="https://github.com/user-attachments/assets/539ce9f0-5a7a-4b67-86a4-1156663db210" />
- |
+ 
 
 
